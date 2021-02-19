@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica5\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica5\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+  Práctica5.vcxproj -> C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica5\Debug\Práctica5.exe
