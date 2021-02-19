@@ -1,0 +1,24 @@
+﻿  CCliente.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+  CRegistroDiario.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(7,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(14,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(30,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(44,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(59,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(73,20): warning C4018:  '<': no coinciden signed/unsigned
+  main.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\CRegistroDiario.cpp(109,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+  Generando código...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+  práctica7versión2.vcxproj -> C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\práctica7versión2\Debug\práctica7versión2.exe
