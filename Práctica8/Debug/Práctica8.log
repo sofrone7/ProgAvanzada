@@ -1,0 +1,135 @@
+﻿  CCliente.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,22): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(24): message :  vea la referencia a la creación de instancias de clase plantilla "CNodoLista<T>" que se está compilando
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,1): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(31,2): error C2989:  'CLista': plantilla de clase ya se ha declarado como plantilla de no clase
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12): message :  vea la declaración de 'CLista'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(9): error C3857:  "CLista": no se permiten las listas de parámetros de plantilla múltiples
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2143:  error de sintaxis: falta ';' delante de '&'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2433:  'ostream': 'friend' no se permite en las declaraciones de datos
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,55): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,36): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(13,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(13,32): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(22,9): error C2059:  error de sintaxis: '<'
+  CContrato.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(22,42): error C2334:  símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,22): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(24): message :  vea la referencia a la creación de instancias de clase plantilla "CNodoLista<T>" que se está compilando
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,1): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(31,2): error C2989:  'CLista': plantilla de clase ya se ha declarado como plantilla de no clase
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12): message :  vea la declaración de 'CLista'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(9): error C3857:  "CLista": no se permiten las listas de parámetros de plantilla múltiples
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2143:  error de sintaxis: falta ';' delante de '&'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2433:  'ostream': 'friend' no se permite en las declaraciones de datos
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,55): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,36): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(30,3): error C3861:  'BorrarSiniestros': no se encontró el identificador
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(38,42): error C2872:  'ostream': símbolo ambiguo
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,8): message :  puede ser 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\iosfwd(216,7): message :  o       'std::ostream'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(38,44): error C2065:  'os': identificador no declarado
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(38,46): error C2761:  "void CContrato::MostrarSiniestros(std::ostream &)": no se permite la nueva declaración del miembro
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(39,1): error C2448:  'CContrato::MostrarSiniestros': el inicializador de estilo de función parece ser una definición de función
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,8): error C2872:  'ostream': símbolo ambiguo
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,8): message :  puede ser 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\iosfwd(216,7): message :  o       'std::ostream'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,8): error C2143:  error de sintaxis: falta ';' delante de '&'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,8): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,8): error C2086:  'int ostream': nueva definición
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14): message :  vea la declaración de 'ostream'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,28): error C2872:  'ostream': símbolo ambiguo
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,8): message :  puede ser 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\iosfwd(216,7): message :  o       'std::ostream'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,30): error C2065:  'os': identificador no declarado
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,46): error C2065:  'c': identificador no declarado
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,47): error C2275:  'CContrato': uso no válido de este tipo como expresión
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(12): message :  vea la declaración de 'CContrato'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,47): error C2473:  'operator <<': parece una definición de función, pero no hay ninguna lista de parámetros.
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(52,47): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  CEmpresa.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.cpp(53,1): error C2448:  '<<': el inicializador de estilo de función parece ser una definición de función
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,22): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(24): message :  vea la referencia a la creación de instancias de clase plantilla "CNodoLista<T>" que se está compilando
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12,1): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(31,2): error C2989:  'CLista': plantilla de clase ya se ha declarado como plantilla de no clase
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.h(12): message :  vea la declaración de 'CLista'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.h(9): error C3857:  "CLista": no se permiten las listas de parámetros de plantilla múltiples
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2143:  error de sintaxis: falta ';' delante de '&'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C2433:  'ostream': 'friend' no se permite en las declaraciones de datos
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,15): error C4430:  falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(14,55): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CContrato.h(21,36): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(13,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(13,32): error C2238:  símbolos (token) inesperados delante de ';'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(22,9): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CCliente.h(22,42): error C2334:  símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CEmpresa.cpp(3,1): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CEmpresa.cpp(3,1): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CEmpresa.cpp(3,45): error C2143:  error de sintaxis: falta ';' delante de '{'
+  CLista.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CEmpresa.cpp(3,45): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(20,7): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(20,7): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(20,7): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(20,23): error C2039:  '=': no es un miembro de '`global namespace''
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(21,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(21,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36,12): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36,12): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36,1): error C2182:  'CLista': uso no válido del tipo 'void'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36,12): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36,17): error C2039:  'AgregarObjeto': no es un miembro de '`global namespace''
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(37,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(37,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(48,10): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(48,10): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(48,1): error C2040:  'CLista: 'T &' se diferencia en los niveles de direccionamiento indirecto de 'int'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(48,10): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(48,15): error C2039:  'GetActual': no es un miembro de '`global namespace''
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(49,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(49,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(56,10): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(56,10): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(56,1): error C2040:  'CLista: 'T &' se diferencia en los niveles de direccionamiento indirecto de 'int'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(56,10): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(56,15): error C2039:  'GetPrimero': no es un miembro de '`global namespace''
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(57,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(57,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,30): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,30): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,30): error C2182:  'CLista': uso no válido del tipo 'void'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,24): error C2374:  'CLista': nueva definición; inicialización múltiple
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(36): message :  vea la declaración de 'CLista'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,30): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(75,35): error C2039:  'Restart': no es un miembro de '`global namespace''
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(76,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(76,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(81,7): error C2988:  declaración o definición de plantilla irreconocible
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(81,7): error C2143:  error de sintaxis: falta ';' delante de '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(81,7): error C2059:  error de sintaxis: '<'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(81,1): error C2523:  '::~CLista': etiqueta de destructor sin correspondencia
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(82,1): error C2143:  error de sintaxis: falta ';' delante de '{'
+  CNodoLista.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CLista.cpp(82,1): error C2447:  '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001:  Error interno en el compilador.
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001: Archivo del compilador 'msc1.cpp', línea 1519
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001:  Para solucionar este problema, intente simplificar o cambiar el programa en aquellas líneas próximas a las ubicaciones que se enumeran a continuación.
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001: Elija el comando Soporte técnico en el menú Ayuda de Visual C++
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001:  o abra el archivo de ayuda de soporte técnico para obtener más información
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001: ERROR INTERNO DEL COMPILADOR en 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\CL.exe'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001:     Elija el comando Soporte técnico del menú Ayuda de Visual C++,
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica8\CNodoLista.cpp(2,51): error C1001: o abra el archivo de ayuda de Soporte técnico para obtener más información
