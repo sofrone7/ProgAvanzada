@@ -1,0 +1,18 @@
+﻿  Funciones.cpp
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+  Práctica2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+  utils.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(112,58): warning C5043:  "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(54): message :  vea la declaración de 'operator new'
+C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\MemoryManager.h(113,60): warning C5043:  "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+  Generando código...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vcruntime_new.h(65): message :  vea la declaración de 'operator new[]'
+MemoryManager-vc2019-d.obj : warning LNK4204: falta información de depuración de 'C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\Debug\vc142.pdb' para hacer referencia al módulo; se vinculará el objeto sin tener en cuenta información de depuración
+  Práctica2.vcxproj -> C:\Users\ssilv\Desktop\Uni\4ºAño\1er Cuatri\Programación Avanzada\Prácticas\Práctica2\Debug\Práctica2.exe
