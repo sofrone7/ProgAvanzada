@@ -1,0 +1,21 @@
+Nombre del Cliente: Silviu
+Contratos:  
+
+Numero de serie: 12345
+Descripcion: Contrato de Silviu
+Fecha de finalizacion: 11-01-16
+Poliza: 123456789
+Valor de compra: 987654321
+Siniestros: 
+
+ Codigo del siniestro: 0
+ Descripcion de la averia: siniestro 1
+ Horas de mano de obra: 0
+ Coste de las piezas: 0
+ Coste total de reparacion: 0
+ Tipo de cobertura: 0
+ Recargo por urgencia: 5
+ Coste hora de mano de obra: 3.5
+
+
+
